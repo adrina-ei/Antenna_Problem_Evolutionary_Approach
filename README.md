@@ -32,7 +32,7 @@ Evolutionary algorithms mimic the process of natural selection to find an optima
      * [problem_config.txt](./Codes/data/problem_config.txt)
    * [chart.ipynb](./Codes/chart.ipynb)
    * [code.ipynb](./Codes/code.ipynb)
-   * [requirements.txt](requirements.txt)
+   * [requirements.txt](./Codes/requirements.txt)
  * [Documents](./Documents)
    * [logs](./Documents/logs)
      * [log_0.1_0.1.txt](./Documents/logs/log_0.1_0.1.txt)
@@ -58,7 +58,7 @@ The evolutionary algorithm implemented in this file follows a standard genetic a
 
 3. **Selection**: Select a subset of the population for reproduction based on their fitness. Better-performing solutions have a higher chance of being selected.
 
-4. **Crossover**: Create new offspring by combining the genetic material (parameters) of selected individuals.
+4. **Crossover**: Create new offsprings by combining the genetic material (parameters) of selected individuals.
 
 5. **Mutation**: Introduce random changes in the offspring's genetic material to explore new areas of the search space.
 
@@ -81,7 +81,7 @@ Before you begin, ensure that you have the packages in `requirements.txt` instal
 
 ### 📦 Installation
 
-1. Clone the CIFAR_10_Image_Classification repository:
+1. Clone the Antenna_Problem_Evolutionary_Approach repository:
 ```sh
 https://github.com/audrina-ebrahimi/Antenna_Problem_Evolutionary_Approach.git
 ```
