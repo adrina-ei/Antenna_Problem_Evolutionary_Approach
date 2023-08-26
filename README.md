@@ -44,6 +44,7 @@ Evolutionary algorithms mimic the process of natural selection to find an optima
      * [plot_0.9_0.1.png](./Documents/logs/plot_0.9_0.1.png)
      * [plot_0.9_0.9.png](./Documents/logs/plot_0.9_0.9.png)
    * [Persian_Doc.pdf](./Documents/Persian_Doc.pdf)
+   * [Problem Statement.pdf](./Documents/Problem%20Statement.pdf)
    
 ---
 
